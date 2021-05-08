@@ -1,2 +1,2 @@
 # practice
-practice foe project
+practice for project
